@@ -1,0 +1,28 @@
+.chat__left {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+    color: purple;
+  }
+  
+  .chat__left__bubble {
+    border-radius: 20px;
+    max-width: 60%;
+    padding: 10px;
+  }
+  
+  .chat__right {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+    color: brown
+  }
+  
+  .chat__right__bubble {
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 20px;
+    max-width: 60%;
+    padding: 10px;
+  }
+  
